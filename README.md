@@ -1,4 +1,5 @@
-# ds-project-template
+# Project-1-Arash
+This repository is a ducumentation of my very first exploratory data analysis (EDA). I do this project for educational purposes. As a toy example I work on the data set of "King Country House Prices" which includes several information (see column_names.md) about the houses sold in 2014 and 2015 in King Country. Assuming that the market is stable we are going to extract the charachtersitic features of this market which are intersting for big families as a potential house buyer. Based on this data analysis they can decide for an optimal time and location of the houses.
 
 Template for creating ds simple projects
 
